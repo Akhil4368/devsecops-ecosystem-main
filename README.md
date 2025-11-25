@@ -1,6 +1,6 @@
 🚀 Complete DevSecOps CI/CD Pipeline with Jenkins, Docker, ArgoCD & Kubernetes
 
-Developed by: Anish Kumar
+Developed by: Akhil
 
 This project is a full DevSecOps implementation demonstrating CI, CD, container security, GitOps deployment, and Kubernetes orchestration on AWS EC2 & local Docker.
 
