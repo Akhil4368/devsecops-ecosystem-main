@@ -4,10 +4,10 @@ pipeline {
     agent any
 
     environment {
-        FRONTEND_IMAGE = "anishkumar001/amazon-frontend"
-        BACKEND_IMAGE  = "anishkumar001/amazon-backend"
+        FRONTEND_IMAGE = "akhil4368/amazon-frontend"
+        BACKEND_IMAGE  = "akhil4368/amazon-backend"
         IMAGE_TAG      = "${env.BUILD_NUMBER}"
-        REPO_URL       = "https://github.com/anish-kumar-001/complete-devsecops-ecosystem.git"
+        REPO_URL       = "https://github.com/Akhil4368/devsecops-ecosystem.git"
     }
 
     stages {

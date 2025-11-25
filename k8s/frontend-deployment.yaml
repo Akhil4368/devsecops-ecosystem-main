@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: Akhil4368/amazon-frontend:3
+          image: akhil4368/amazon-frontend:3
           ports:
             - containerPort: 80
